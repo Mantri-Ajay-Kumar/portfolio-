@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ajay Kumar",
+  "name": "Mantri Ajay Kumar - System Engineer Portfolio",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +8,19 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "profile.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "profile.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#2196F3",
+  "background_color": "#ffffff",
+  "description": "Portfolio of Mantri Ajay Kumar - System Engineer 2 specializing in .NET 8 and AWS Cloud Architecture"
 }
